@@ -1,8 +1,9 @@
-Compilation:
+# Space Station Project
+
+## Compilation
     Compile by doing "javac Main.java" then execute by doing "java Main" in the command line.
 
-
-Use:
+## Use
     The program is a GUI simulation of the interior of a space station, overlooking several asteroids and
     spaceships. There is a black screen in the middle along with different objects moving around mthe screen.
     There are several buttons and widgets in the border regions that do various things, like
@@ -14,8 +15,7 @@ Use:
     displays a popup window that contains the widgets for launching a new vehicle. The user can also now
     zoom in and out using the buttons on the right side of the screen.
 
-
-Rules for Players:
+## Rules for Players:
     Your objective is to get as many points as possible. When you are able to change a spaceship or robot's
     color to be gray by using the CHANGE COLOR button, the vehicle will then be able to pass through an
     asteroid without getting destroyed. During the entire time the vehicle passes through an asteroid, your
